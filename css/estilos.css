@@ -1,3 +1,8 @@
+#footer {
+    padding:10px;  
+    background-color: red;
+    color: #DDD;
+}
 body {
     color:blue;
     text-align: left;
@@ -27,7 +32,4 @@ body {
 }
 #post {
     padding:1em;
-}
-#footer {
-    padding:10px;
 }
